@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1570699335546.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "9933102",
+    "id" : "C35087D2",
+    "lastKnownWriteTime" : 1570778921,
+    "last_content_update" : 1570778921529,
+    "path" : "~/Library/Mobile Documents/com~apple~CloudDocs/R Stats/Website/website4/config/_default/params.toml",
+    "project_path" : "config/_default/params.toml",
+    "properties" : {
+        "cursorPosition" : "8,17",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
